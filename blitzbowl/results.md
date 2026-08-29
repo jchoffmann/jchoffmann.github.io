@@ -4,13 +4,14 @@
 
 |             | alexb76 | thehoff | -       | Δ  |
 |-------------|---------|---------|---------|----|
-| Results     | 11 wins | 7 wins  | 3 draws | 4  |
-| Total score | 420     | 345     |         | 75 |
+| Results     | 12 wins | 7 wins  | 3 draws | 5  |
+| Total score | 436     | 351     |         | 85 |
 
 ## Games
 
 | Game # | Player 1     | Team 1              | Player 2    | Team 2              | Score   | Finished         |
 |--------|--------------|---------------------|-------------|---------------------|---------|------------------|
+| 22     | **alexb76**  | **Necromantic**     | thehoff     | Human               | 16 : 6  | 29.8.2026, 16:19 |
 | 21     | alexb76      | Necromantic         | **thehoff** | **Human**           | 6 : 17  | 22.8.2026, 16:13 |
 | 20     | **alexb76**  | **Goblin**          | thehoff     | Amazon              | 21 : 10 | 3.8.2026, 23:36  |
 | 19     | alexb76      | Khorne              | **thehoff** | **Vampire**         | 22 : 26 | 12.6.2026, 21:11 |
